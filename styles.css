@@ -1,0 +1,25 @@
+.title {
+
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.425);
+    border-radius: 20px;
+    
+    
+    
+
+    
+}
+
+.button{
+    
+    text-align: center;
+    
+
+}
+
+#button{
+
+    background-color: rgb(163, 20, 1);
+    border-radius: 20px;
+    color: white;
+}
